@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on opportunities to apply the concepts I mentioned above to Materials Engineering. Also, any opportunity to apply these concepts to cool projects!
 - 📫 How to reach me: www.linktr.ee/akash
 
+Programming experiences:
+- Matlab, Python, JavaScript, Solidity, React, Hardhat
+
 <!---
 DrTriv/DrTriv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
