@@ -5,7 +5,7 @@
 - 📫 How to reach me: www.linktr.ee/akash
 
 Programming experiences:
-- Matlab, Python, JavaScript, Solidity, React, Hardhat
+- Matlab, Python, JavaScript (React, Node), Solidity, Hardhat
 
 <!---
 DrTriv/DrTriv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
