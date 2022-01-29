@@ -3,11 +3,14 @@
 - 🌱 I’m currently learning how to translate my experiences in academia to the wider world. I'm also interested in learning more about web3, data science, ML/AI, CV and NLP
 - 💞️ I’m looking to collaborate on opportunities to apply the concepts mentioned above. Either to Materials Engineering (my PhD research area) or any other cool projects!
 - 📫 How to reach me: www.linktr.ee/akash
+- 🚀 My dream is to one day go into space!
 
 Programming experiences:
 - Matlab, Python, JavaScript (React, Node), Solidity, Hardhat
 
 Recent projects:
+- Currently documenting my project where I'm learning how to use ML techniques on python to predict how much a movie will take during its opening weekend.
+    - Tools used: Python (pandas, numpy, matplotlib, BeautifulSoup)
 - Created and deployed a smart contract and deployed a dApp allowing users to connect their wallet, wave and send a message for all to see (https://WaveApp.drtriv.repl.co)
     - Tools used: Solidity, Hardhat, JS, AlchemyAPI, Replit
 - Created a DAO from scratch intended to be the home of researchers on web3 (https://researchdao.drtriv.repl.co/)
